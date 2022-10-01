@@ -13,6 +13,7 @@ Currently boosting my skillset on a software engineering bootcamp with [Makers A
 ## **_PREVIOUSLY:_**
 ### A leader in the education sector for over a decade
 Taught Maths to over **1,600 students**. Led a team of **16** teachers. Responsible for the curriculum and testing automation for **300 A Level students** every year. Created an educational YouTube channel and built the [website](https://josephclander.github.io/miniMaths/) to host it. Piloted [edu-scrum](https://eduscrum.org/how-eduscrum-works/) in A-Level teaching.
+
 [<img width="200" alt="miniMaths thumbnail" src="https://user-images.githubusercontent.com/19231569/193401432-6801e24a-94b2-4f86-ad9d-eab3f964ce2f.png" />
 ](https://josephclander.github.io/miniMaths/ "The first website I built from scratch")
 
