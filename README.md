@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/josephclander/josephclander/main/bgGithubProfile.png" alt="dark background, Software Developer, Videographer, Small logo of Green play button and red record button" />
 
-# **NOW:** Taking my software development skills to the next level
+## Checkout my latest team project 👇
+[<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="60%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN')
+
+## **NOW:** Taking my software development skills to the next level
 Currently boosting my skillset on a software engineering bootcamp with [Makers Academy](https://makers.tech/). Started to code for fun in 2016 when I couldn't even touch type. Now completed `software development` qualifications in `front-end`, `full-stack`, `data-structures` and `testing` ([see below](#tech-qualifications)). Eager to take my technical and creative abilities to a professional stage.
 
 [<img width="70" alt="linkedIn" src="https://user-images.githubusercontent.com/19231569/194025465-218acc80-774e-43d9-b0c3-c6d20d8c2621.png">
