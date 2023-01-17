@@ -30,18 +30,3 @@ _(Hover & Click for information)_
 [<img width="100" alt="white_fcc" src="https://user-images.githubusercontent.com/19231569/193341862-067f8fe6-f1a8-441f-bd91-daa24fdf26b4.png">](https://www.freecodecamp.org/certification/josephclander/responsive-web-design "FCC: Front-End Web Development")
 [<img width="100" alt="istqb" src="https://user-images.githubusercontent.com/19231569/193341985-2682dadd-9431-4c7f-a817-20473ef7b370.png">
 ](http://scr.istqb.org/?name=joseph+lander&number=&orderBy=relevancy&orderDirection=&dateStart=2021-08-02&dateEnd=2021-08-03&expiryStart=&expiryEnd=&certificationBody=&examProvider=1&certificationLevel=1&country=235&resultsPerPage=10 "ISTQB: Certified Tester Foundation Level 2018")
-
-## **_PREVIOUSLY:_**
-### A leader in the education sector for over a decade
-Taught Maths to over **1,600 students**. Led a team of **16** teachers. Responsible for the curriculum and testing automation for **300 A Level students** every year. Created an educational YouTube channel and built the [website](https://josephclander.github.io/miniMaths/) to host it. Piloted [edu-scrum](https://eduscrum.org/how-eduscrum-works/) in A-Level teaching.
-
-[<img width="200" alt="miniMaths thumbnail" src="https://user-images.githubusercontent.com/19231569/193401432-6801e24a-94b2-4f86-ad9d-eab3f964ce2f.png" />
-](https://josephclander.github.io/miniMaths/ "The first website I built from scratch")
-
-### Built a business creating videos with thought leaders in the Agile space
-Filmed and edited for Agile events in New York and London: Adventures with Agile and regularly for [Women in Agile London](https://www.youtube.com/c/WomeninAgileLondon). Mastered professional video editing software. Built my [company website](https://tidyjoevideo.com/) personally utilising tools; Sass and webpack, to streamline [development to production builds](https://github.com/josephclander/tidy-joe-video).
-
-[<img width="200" alt="Hacking Influence Thumbnail" src="https://user-images.githubusercontent.com/19231569/193400452-10231d29-2772-48bd-8c77-5e05419df79f.png" />
-](https://www.youtube.com/watch?v=NCiHeVokylI "Hacking Influence")
-[<img width="200" alt="Be a better Ally Thumbnail" src="https://user-images.githubusercontent.com/19231569/193400340-92dc43df-48d9-4fa8-b9d1-b6c7ff617c6c.png" />](https://youtu.be/Tl6vCoWWIvI "How to be a better Ally")
-[<img width="200" alt="Who is responsible for planning in LeSS Thumbnail" src="https://user-images.githubusercontent.com/19231569/193400375-0a350ad2-486f-4528-ae79-91684807a3fd.png" />](https://www.youtube.com/watch?v=cIuL_9E-x24 "Who is responsible for planning in LeSS?")
