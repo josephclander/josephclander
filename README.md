@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/19231569/210011407-bd5b235c-66f2-4c66-88ae-d6798e4870e4.png" alt="dark background, Joseph Lander Software Developer, Videographer, YouTube Channel splat_bang" />
 
-## ▶️ Checkout my latest team project 👇
+## ▶️ Checkout my latest team projects 👇
 [<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN') [<img src="https://i3.ytimg.com/vi/HqTqW63D3Pg/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Git Workflow in a Team')
 
 ## **OPEN TO WORK:** Looking for the next project
@@ -12,6 +12,7 @@ Recently completed a software engineering bootcamp with [Makers Academy](https:/
 ](https://youtube.com/@splat_bang "YouTube Coding Channel")
 [<img width="100" alt="cv" src="https://user-images.githubusercontent.com/19231569/193342086-9ca4edab-1074-4f17-b5f4-123ce409837d.png">
 ](https://github.com/josephclander/CV "CV on Github")
+[<img width="100" alt="cv _download" src="https://user-images.githubusercontent.com/19231569/212921401-345b2756-27f2-4f22-85b7-5a1fbac39f9b.png">](https://github.com/josephclander/josephclander/blob/main/resume_dec_2022.pdf)
 [<img width="100" alt="portfolio" src="https://user-images.githubusercontent.com/19231569/193342120-1deb9fd3-b04e-43d4-8e53-f6f1fea24d9a.png">
 ](https://josephclander.com/ "Portfolio Website")
 
