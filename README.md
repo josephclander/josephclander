@@ -3,8 +3,8 @@
 ## ▶️ Checkout my latest team project 👇
 [<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN') [<img src="https://i3.ytimg.com/vi/HqTqW63D3Pg/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Git Workflow in a Team')
 
-## **NOW:** Taking my software development skills to the next level
-Currently boosting my skillset on a software engineering bootcamp with [Makers Academy](https://makers.tech/). Completed `software development` qualifications in `front-end`, `full-stack`, `data-structures` and `testing` ([see below](#tech-qualifications)). Eager to take my technical and creative abilities to a professional stage.
+## **OPEN TO WORK:** Looking for the next project
+Recently completed a software engineering bootcamp with [Makers Academy](https://makers.tech/). Completed `software development` qualifications in `front-end`, `full-stack`, `data-structures` and `testing` ([see below](#tech-qualifications)). Eager to take my new agile team experience and technical and creative abilities to a professional stage.
 
 [<img width="100" alt="linkedIn" src="https://user-images.githubusercontent.com/19231569/194025465-218acc80-774e-43d9-b0c3-c6d20d8c2621.png">
 ](https://www.linkedin.com/in/josephclander/ "LinkedIn Profile")
