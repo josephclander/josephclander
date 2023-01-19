@@ -6,7 +6,7 @@
 ## **OPEN TO WORK:** Looking for the next project
 Recently completed a software engineering bootcamp with [Makers Academy](https://makers.tech/). See my [YouTube channel](https://youtube.com/@splat_bang) where I document my journey and explain key topics from the course. **Eager to take my new agile team experience, technical and creative abilities to a professional stage.**
 
-## Checkout my CV
+## More information about me & my work
 <img width="100" alt="arrow" src="https://user-images.githubusercontent.com/19231569/213458967-d77d1ede-cbb8-4cda-8d58-7ac2a1c70503.png">[<img width="100" alt="cv" src="https://user-images.githubusercontent.com/19231569/193342086-9ca4edab-1074-4f17-b5f4-123ce409837d.png">
 ](https://github.com/josephclander/CV "CV on Github")
 
