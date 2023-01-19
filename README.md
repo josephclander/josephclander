@@ -1,6 +1,6 @@
 [<img src="https://user-images.githubusercontent.com/19231569/210011407-bd5b235c-66f2-4c66-88ae-d6798e4870e4.png" alt="dark background, Joseph Lander Software Developer, Videographer, YouTube Channel splat_bang" />](https://youtube.com/@splat_bang "YouTube Coding Channel")
 
-## ▶️ Checkout my latest team projects 👇
+## ▶️ My latest team projects 👇
 [<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN') [<img src="https://i3.ytimg.com/vi/HqTqW63D3Pg/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Git Workflow in a Team')
 
 ## **OPEN TO WORK:** Looking for the next project
