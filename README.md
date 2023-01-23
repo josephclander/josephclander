@@ -28,7 +28,7 @@ _(Hover & Click for further information)_
 [<img width="100" alt="istqb" src="https://user-images.githubusercontent.com/19231569/193341985-2682dadd-9431-4c7f-a817-20473ef7b370.png">
 ](http://scr.istqb.org/?name=joseph+lander&number=&orderBy=relevancy&orderDirection=&dateStart=2021-08-02&dateEnd=2021-08-03&expiryStart=&expiryEnd=&certificationBody=&examProvider=1&certificationLevel=1&country=235&resultsPerPage=10 "ISTQB: Certified Tester Foundation Level 2018")
 
-## React Projects
+## React Projects (MERN)
 | Repo                                                                                  | Description                  | Tech                        |
 |---------------------------------------------------------------------------------------|------------------------------|-----------------------------|
 | [ZeroPercentBrews](https://github.com/josephclander/ZeroPercentBrews-client-snapshot) | Recommendations site for non-alcoholic beers         | MERN, Auth, Routing, Hooks  |
@@ -36,3 +36,19 @@ _(Hover & Click for further information)_
 | [StudentDirectory](https://github.com/josephclander/MERN_stack_student_directory)     | Student Directory with Login | MERN, Auth, Routing, Classes |
 
 👉  [Click for all REACT projects](https://github.com/josephclander?tab=repositories&q=topic%3Areact&type=&language=&sort=)
+
+## SQL Projects
+| Repo                                                                                  | Description                  | Tech                        |
+|---------------------------------------------------------------------------------------|------------------------------|-----------------------------|
+| [BookLibrary](https://github.com/josephclander/SQL-library-manager) | SQL Library with views in Pug        | mySQL, SQLite3, Sequelize, Pug, JS |
+| [ChitterChallenge](https://github.com/josephclander/chitter-challenge)                  | Message platform like Twitter  | PostgreSQL, Erb, Ruby          |
+
+👉  [Click for all SQL projects](https://github.com/josephclander?tab=repositories&q=topic%3Adatabase&type=&language=&sort=)
+
+## Interactive Form Projects
+| Repo                                                                    | Description                                                                                                           | Tech                        |
+|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| [WebApp](https://github.com/josephclander/web_app_dashboard)            | Web App Dashboard with graphing widgets and form sections. Responsive design with JS user interactions for better UX. | ChartJS, Grid, Flexbox, SVG |
+| [InteractiveForm](https://github.com/josephclander/interactive-js-form) | Adding interactivity & validation to a registration form                                                              | JS, User Validation         |
+
+👉  [Click for all FORM projects](https://github.com/josephclander?tab=repositories&q=topic%3Ahtml-form&type=&language=&sort=)
