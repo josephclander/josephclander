@@ -27,3 +27,12 @@ _(Hover & Click for further information)_
 [<img width="100" alt="white_fcc" src="https://user-images.githubusercontent.com/19231569/193341862-067f8fe6-f1a8-441f-bd91-daa24fdf26b4.png">](https://www.freecodecamp.org/certification/josephclander/responsive-web-design "FCC: Front-End Web Development")
 [<img width="100" alt="istqb" src="https://user-images.githubusercontent.com/19231569/193341985-2682dadd-9431-4c7f-a817-20473ef7b370.png">
 ](http://scr.istqb.org/?name=joseph+lander&number=&orderBy=relevancy&orderDirection=&dateStart=2021-08-02&dateEnd=2021-08-03&expiryStart=&expiryEnd=&certificationBody=&examProvider=1&certificationLevel=1&country=235&resultsPerPage=10 "ISTQB: Certified Tester Foundation Level 2018")
+
+## React Projects
+| Repo                                                                                  | Description                  | Tech                        |
+|---------------------------------------------------------------------------------------|------------------------------|-----------------------------|
+| [ZeroPercentBrews](https://github.com/josephclander/ZeroPercentBrews-client-snapshot) | Recommendations site for non-alcoholic beers         | MERN, Auth, Routing, Hooks  |
+| [Find-a-Film](https://github.com/josephclander/find-a-film-snapshot)                  | Find film with search API    | MERN, TypeScript            |
+| [StudentDirectory](https://github.com/josephclander/MERN_stack_student_directory)     | Student Directory with Login | MERN, Auth, Routing, Classes |
+
+👉  [Click for all REACT projects](https://github.com/josephclander?tab=repositories&q=topic%3Areact&type=&language=&sort=)
