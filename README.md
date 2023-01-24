@@ -30,12 +30,13 @@ _(Hover & Click for further information)_
 
 ## Select Projects
 
-### React (MERN)
+### React
 | Repo                                                                                  | Description                  | Tech                        |
 |---------------------------------------------------------------------------------------|------------------------------|-----------------------------|
 | [ZeroPercentBrews](https://github.com/josephclander/ZeroPercentBrews-client-snapshot) | Recommendations site for non-alcoholic beers         | MERN, Auth, Routing, Hooks  |
 | [Find-a-Film](https://github.com/josephclander/find-a-film-snapshot)                  | Find film with search API    | MERN, TypeScript            |
-| [StudentDirectory](https://github.com/josephclander/MERN_stack_student_directory)     | Student Directory with Login | MERN, Auth, Routing, Classes |
+| [StudentDirectory](https://github.com/josephclander/React_SQL_Express_student_directory)     | Full Stack Student Directory with Login | React, SQL, Auth, Routing, Classes |
+
 
 👉  [Click for all REACT projects](https://github.com/josephclander?tab=repositories&q=topic%3Areact&type=&language=&sort=)
 
