@@ -54,3 +54,13 @@ _(Hover & Click for further information)_
 | [InteractiveForm](https://github.com/josephclander/interactive-js-form) | Adding interactivity & validation to a registration form                                                              | JS, User Validation         |
 
 👉  [Click for all FORM projects](https://github.com/josephclander?tab=repositories&q=topic%3Ahtml-form&type=&language=&sort=)
+
+### Client-Site
+
+| Repo                                                                                | Description                                                                                | Tech                                     |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------|
+| [ConsultingCompanyWebsite](https://github.com/josephclander/legacy_company_website) | Designed & built to act as a business card for the company.                                | Social API, CSS Design Tricks            |
+| [VideoCompanyWebsite](https://github.com/josephclander/tidy-joe-video)              | Personal Website, designed to highlight design skills for my side business in videography. | FTP, Sketch, Sass, Flexbox, Contact Form |
+
+👉  [Click for all CLIENT-SITE projects](https://github.com/josephclander?tab=repositories&q=topic%3Aclient-site&type=&language=&sort=)
+
