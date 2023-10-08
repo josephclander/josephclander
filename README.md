@@ -1,11 +1,15 @@
 [<img src="https://user-images.githubusercontent.com/19231569/210011407-bd5b235c-66f2-4c66-88ae-d6798e4870e4.png" alt="dark background, Joseph Lander Software Developer, Videographer, YouTube Channel splat_bang" />](https://youtube.com/@splat_bang "YouTube Coding Channel")
 
-## ▶️ My latest team projects 👇
+## ▶️ Full-stack projects 👇
 [<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN') 
  [<img width="48%" src="https://i3.ytimg.com/vi/FMtE3SbgWtE/maxresdefault.jpg" >](https://youtu.be/FMtE3SbgWtE "ZeroPercentBrews.com Video")
 
-## **OPEN TO WORK:** Looking for the next project
-Recently completed a software engineering bootcamp with [Makers Academy](https://makers.tech/). See my [YouTube channel](https://youtube.com/@splat_bang) where I document my journey and explain key topics from the course. **Eager to take my new agile team experience, technical and creative abilities to a professional stage.**
+## **Employment**
+Currently working at [Cyclr - Embeded iPaaS API Integration](https://cyclr.com/). Creating authentication, paging, sanitisation and mapping solutions in modern, error-handled Javascript.
+
+Previously completed a software engineering bootcamp with [Makers Academy](https://makers.tech/). See my [YouTube channel](https://youtube.com/@splat_bang) where I document my journey and explain key topics from the course.
+
+*(Contact via email or LinkedIn if you wish to discuss development roles)*
 
 ## More information about me & my work
 <img width="100" alt="arrow" src="https://user-images.githubusercontent.com/19231569/213458967-d77d1ede-cbb8-4cda-8d58-7ac2a1c70503.png">[<img width="100" alt="cv" src="https://user-images.githubusercontent.com/19231569/193342086-9ca4edab-1074-4f17-b5f4-123ce409837d.png">
