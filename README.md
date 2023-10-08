@@ -1,6 +1,6 @@
 [<img src="https://user-images.githubusercontent.com/19231569/210011407-bd5b235c-66f2-4c66-88ae-d6798e4870e4.png" alt="dark background, Joseph Lander Software Developer, Videographer, YouTube Channel splat_bang" />](https://youtube.com/@splat_bang "YouTube Coding Channel")
 
-## ▶️ Full-stack projects 👇
+## Full-stack project videos
 [<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN') 
  [<img width="48%" src="https://i3.ytimg.com/vi/FMtE3SbgWtE/maxresdefault.jpg" >](https://youtu.be/FMtE3SbgWtE "ZeroPercentBrews.com Video")
 
