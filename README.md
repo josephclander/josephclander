@@ -1,4 +1,4 @@
-[<img src="[https://user-images.githubusercontent.com/19231569/210011407-bd5b235c-66f2-4c66-88ae-d6798e4870e4.png](https://github.com/josephclander/josephclander/assets/19231569/ffa3648c-e1e6-4ada-9fc4-e0b809f247ae)" alt="dark background, Joseph Lander Front End Engineer" />](https://www.linkedin.com/in/josephclander/ "LinkedIn Joseph Lander")
+[<img src="https://github.com/josephclander/josephclander/assets/19231569/ffa3648c-e1e6-4ada-9fc4-e0b809f247ae" alt="dark background, Joseph Lander Front End Engineer" />](https://www.linkedin.com/in/josephclander/ "LinkedIn Joseph Lander")
 
 ## **Professional Experience**
 [Cyclr - Embeded iPaaS API Integration](https://cyclr.com/). SaaS B2B API Integration firm with tight SLA deadlines. Creating authentication, paging, sanitisation and mapping solutions in modern, error-handled Javascript.
