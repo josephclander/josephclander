@@ -5,8 +5,8 @@
 
 ## More information about me & my work
 - Engineering bootcamp grad with [Makers Academy](https://makers.tech/).
-- Software Development Content Creator[YouTube channel](https://youtube.com/@splat_bang).
-- Community Leader[Makers Alumni Hub](https://www.linkedin.com/company/makers-alumni-hub).
+- Software Development Content Creator [YouTube channel](https://youtube.com/@splat_bang).
+- Community Leader [Makers Alumni Hub](https://www.linkedin.com/company/makers-alumni-hub).
 
 *(Contact via [email](mailto:josephclander@gmail.com) or [LinkedIn](https://www.linkedin.com/in/josephclander) if you wish to discuss development roles)*
 
