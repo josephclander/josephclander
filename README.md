@@ -1,16 +1,18 @@
 [<img src="https://github.com/josephclander/josephclander/assets/19231569/ffa3648c-e1e6-4ada-9fc4-e0b809f247ae" alt="dark background, Joseph Lander Front End Engineer" />](https://www.linkedin.com/in/josephclander/ "LinkedIn Joseph Lander")
 
-## **Professional Experience**
-[Cyclr - Embeded iPaaS API Integration](https://cyclr.com/). SaaS B2B API Integration firm with tight SLA deadlines. Creating authentication, paging, sanitisation and mapping solutions in modern, error-handled Javascript.
+## **Current Professional Experience**
+> [Cyclr - Embeded iPaaS API Integration](https://cyclr.com/). SaaS B2B API Integration with tight SLA deadlines. Creating authentication, paging, sanitisation and mapping solutions in modern, error-handled Javascript.
 
 ## More information about me & my work
-Engineering bootcamp grad with [Makers Academy](https://makers.tech/). See my [YouTube channel](https://youtube.com/@splat_bang) where I document my journey and explain key topics from the course.
+- Engineering bootcamp grad with [Makers Academy](https://makers.tech/).
+- Software Development Content Creator[YouTube channel](https://youtube.com/@splat_bang).
+- Community Leader[Makers Alumni Hub](https://www.linkedin.com/company/makers-alumni-hub).
 
-*(Contact via email or LinkedIn if you wish to discuss development roles)*
+*(Contact via [email](mailto:josephclander@gmail.com) or [LinkedIn](https://www.linkedin.com/in/josephclander) if you wish to discuss development roles)*
 
 ## Technologies I Use
 
-<img height="30" src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-NodeJS-339933?logo=Node.js&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Testing%20Library-E33332?logo=testinglibrary&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Affinity%20Designer-1B72BE?logo=Affinity-Designer&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Sketch-F7B500?logo=Sketch&logoColor=white" />
+<img height="30" src="https://img.shields.io/badge/-HTML-BD73D4?logo=HTML5&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-CSS-BD73D4?logo=CSS3&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Sass-BD73D4?logo=Sass&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-JavaScript-61AFEE?logo=JavaScript&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-TypeScript-61AFEE?logo=typescript&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-ReactJs-61AFEE?logo=react&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-NextJS-61AFEE?logo=Next.js&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-NodeJS-61AFEE?logo=Node.js&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-MongoDB-98C379?logo=MongoDB&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-PostgreSQL-98C379?logo=PostgreSQL&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Postman-DF6B74?logo=Postman&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Jest-DF6B74?logo=Jest&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-React%20Testing%20Library-DF6B74?logo=testinglibrary&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Git-E5BF7A?logo=Git&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Affinity%20Designer-E5BF7A?logo=Affinity-Designer&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Sketch-E5BF7A?logo=Sketch&logoColor=white" />
 
 ## Full-stack project videos
 [<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN') 
@@ -18,7 +20,15 @@ Engineering bootcamp grad with [Makers Academy](https://makers.tech/). See my [Y
 
 ## Select Projects
 
-### React & TypeScript
+### Case Studies
+| Repo                                                                    | Description                                                                                                           | Tech                        |
+|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| [NextJS Routing](https://github.com/josephclander/nextjs-routing-userlist) | Demonstrate App routing in NextJS                                                                                  | NextJS, TypeScript         |
+| [React Todo App Testing](https://github.com/josephclander/todo_react_typescript_testing) | A standard Todo app in React tested with React Testing Library                                       | React, TypeScript, React Testing Library  |
+| [WebApp](https://github.com/josephclander/web_app_dashboard)            | Web App Dashboard with graphing widgets and form sections. Responsive design with JS user interactions for better UX. | ChartJS, Grid, Flexbox, SVG |
+| [InteractiveForm](https://github.com/josephclander/interactive-js-form) | Adding interactivity & validation to a registration form                                                              | JS, User Validation         |
+
+### Full Projects
 | Repo                                                                                  | Description                  | Tech                        |
 |---------------------------------------------------------------------------------------|------------------------------|-----------------------------|
 | [ZeroPercentBrews](https://github.com/josephclander/ZeroPercentBrews-client-snapshot) | Recommendations site for non-alcoholic beers         | MERN, Auth, Routing, Hooks  |
@@ -31,12 +41,6 @@ Engineering bootcamp grad with [Makers Academy](https://makers.tech/). See my [Y
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------|
 | [ConsultingCompanyWebsite](https://github.com/josephclander/legacy_company_website) | Designed & built to act as a business card for the company.                                | Social API, CSS Design Tricks            |
 | [VideoCompanyWebsite](https://github.com/josephclander/tidy-joe-video)              | Personal Website, designed to highlight design skills for my side business in videography. | FTP, Sketch, Sass, Flexbox, Contact Form |
-
-### Case Studies
-| Repo                                                                    | Description                                                                                                           | Tech                        |
-|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [WebApp](https://github.com/josephclander/web_app_dashboard)            | Web App Dashboard with graphing widgets and form sections. Responsive design with JS user interactions for better UX. | ChartJS, Grid, Flexbox, SVG |
-| [InteractiveForm](https://github.com/josephclander/interactive-js-form) | Adding interactivity & validation to a registration form                                                              | JS, User Validation         |
 
 ## Tech Qualifications
 Links to my `software development` qualifications in `front-end`, `full-stack`, `data-structures` and `testing`.
