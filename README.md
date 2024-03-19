@@ -16,20 +16,6 @@ Engineering bootcamp grad with [Makers Academy](https://makers.tech/). See my [Y
 [<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN') 
  [<img width="48%" src="https://i3.ytimg.com/vi/FMtE3SbgWtE/maxresdefault.jpg" >](https://youtu.be/FMtE3SbgWtE "ZeroPercentBrews.com Video")
 
-## Tech Qualifications
-Links to my `software development` qualifications in `front-end`, `full-stack`, `data-structures` and `testing`.
-
-_(Hover & Click for further information)_
-
-[<img width="100" alt="makers" src="https://user-images.githubusercontent.com/19231569/193341440-40eee919-f7bc-46b6-9051-a92a74905518.png">](https://makers.tech/ "Makers Academy: Software Engineering Bootcamp [in-training]")
-[<img width="100" alt="treehouse" src="https://user-images.githubusercontent.com/19231569/193341667-0b132dc4-fe66-400b-916e-e725d25ad021.png">
-](https://www.credential.net/528a10d8-f891-4e80-9aaf-7920d555564d#gs.di78pv "Treehouse: JS Fullstack Tech Degree")
-[<img width="100" alt="black_fcc" src="https://user-images.githubusercontent.com/19231569/193341820-37ca1e3e-84ad-42ef-abaf-09000b54c80f.png">
-](https://www.freecodecamp.org/certification/josephclander/javascript-algorithms-and-data-structures "FCC: JS Algorithms & Data Structures")
-[<img width="100" alt="white_fcc" src="https://user-images.githubusercontent.com/19231569/193341862-067f8fe6-f1a8-441f-bd91-daa24fdf26b4.png">](https://www.freecodecamp.org/certification/josephclander/responsive-web-design "FCC: Front-End Web Development")
-[<img width="100" alt="istqb" src="https://user-images.githubusercontent.com/19231569/193341985-2682dadd-9431-4c7f-a817-20473ef7b370.png">
-](http://scr.istqb.org/?name=joseph+lander&number=&orderBy=relevancy&orderDirection=&dateStart=2021-08-02&dateEnd=2021-08-03&expiryStart=&expiryEnd=&certificationBody=&examProvider=1&certificationLevel=1&country=235&resultsPerPage=10 "ISTQB: Certified Tester Foundation Level 2018")
-
 ## Select Projects
 
 ### React & TypeScript
@@ -52,8 +38,16 @@ _(Hover & Click for further information)_
 | [WebApp](https://github.com/josephclander/web_app_dashboard)            | Web App Dashboard with graphing widgets and form sections. Responsive design with JS user interactions for better UX. | ChartJS, Grid, Flexbox, SVG |
 | [InteractiveForm](https://github.com/josephclander/interactive-js-form) | Adding interactivity & validation to a registration form                                                              | JS, User Validation         |
 
+## Tech Qualifications
+Links to my `software development` qualifications in `front-end`, `full-stack`, `data-structures` and `testing`.
 
+_(Hover & Click for further information)_
 
-
-
-
+[<img width="100" alt="makers" src="https://user-images.githubusercontent.com/19231569/193341440-40eee919-f7bc-46b6-9051-a92a74905518.png">](https://makers.tech/ "Makers Academy: Software Engineering Bootcamp [in-training]")
+[<img width="100" alt="treehouse" src="https://user-images.githubusercontent.com/19231569/193341667-0b132dc4-fe66-400b-916e-e725d25ad021.png">
+](https://www.credential.net/528a10d8-f891-4e80-9aaf-7920d555564d#gs.di78pv "Treehouse: JS Fullstack Tech Degree")
+[<img width="100" alt="black_fcc" src="https://user-images.githubusercontent.com/19231569/193341820-37ca1e3e-84ad-42ef-abaf-09000b54c80f.png">
+](https://www.freecodecamp.org/certification/josephclander/javascript-algorithms-and-data-structures "FCC: JS Algorithms & Data Structures")
+[<img width="100" alt="white_fcc" src="https://user-images.githubusercontent.com/19231569/193341862-067f8fe6-f1a8-441f-bd91-daa24fdf26b4.png">](https://www.freecodecamp.org/certification/josephclander/responsive-web-design "FCC: Front-End Web Development")
+[<img width="100" alt="istqb" src="https://user-images.githubusercontent.com/19231569/193341985-2682dadd-9431-4c7f-a817-20473ef7b370.png">
+](http://scr.istqb.org/?name=joseph+lander&number=&orderBy=relevancy&orderDirection=&dateStart=2021-08-02&dateEnd=2021-08-03&expiryStart=&expiryEnd=&certificationBody=&examProvider=1&certificationLevel=1&country=235&resultsPerPage=10 "ISTQB: Certified Tester Foundation Level 2018")
