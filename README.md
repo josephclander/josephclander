@@ -47,6 +47,8 @@ Links to my `software development` qualifications in `front-end`, `full-stack`, 
 
 _(Hover & Click for further information)_
 
+I also have experience working on projects working with Python, Java & Spring Boot & C#.
+
 [<img width="100" alt="makers" src="https://user-images.githubusercontent.com/19231569/193341440-40eee919-f7bc-46b6-9051-a92a74905518.png">](https://makers.tech/ "Makers Academy: Software Engineering Bootcamp [in-training]")
 [<img width="100" alt="treehouse" src="https://user-images.githubusercontent.com/19231569/193341667-0b132dc4-fe66-400b-916e-e725d25ad021.png">
 ](https://www.credential.net/528a10d8-f891-4e80-9aaf-7920d555564d#gs.di78pv "Treehouse: JS Fullstack Tech Degree")
