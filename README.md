@@ -4,16 +4,15 @@
 
 <img height="30" src="https://img.shields.io/badge/-HTML-BD73D4?logo=HTML5&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-CSS-BD73D4?logo=CSS3&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Sass-BD73D4?logo=Sass&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-JavaScript-61AFEE?logo=JavaScript&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-TypeScript-61AFEE?logo=typescript&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-ReactJs-61AFEE?logo=react&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-NextJS-61AFEE?logo=Next.js&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-NodeJS-61AFEE?logo=Node.js&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-MongoDB-98C379?logo=MongoDB&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-PostgreSQL-98C379?logo=PostgreSQL&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Postman-DF6B74?logo=Postman&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Jest-DF6B74?logo=Jest&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-React%20Testing%20Library-DF6B74?logo=testinglibrary&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Git-E5BF7A?logo=Git&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Affinity%20Designer-E5BF7A?logo=Affinity-Designer&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Sketch-E5BF7A?logo=Sketch&logoColor=white" />
 
+## Current Projects
+
+### React UI Learning Hub & Large Bytes Company
+
+[<img width="40%" alt="React UI Learning Hub Website" src="https://github.com/user-attachments/assets/2a130f24-b008-4565-9b9c-ca109b099de4">](https://react-ui-learning-hub.vercel.app/ 'React UI Learning Hub Website') [<img width="40%" alt="largebytes company website" src="https://github.com/user-attachments/assets/4b5d7377-8be5-4ea4-977f-9a6f3b1bd59b">](https://www.largebytes.co.uk/ 'Large Bytes - Creating software solutions for small businesses')
+
 ## Full-stack React project videos
 [<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN') 
  [<img width="48%" src="https://i3.ytimg.com/vi/FMtE3SbgWtE/maxresdefault.jpg" >](https://youtu.be/FMtE3SbgWtE "ZeroPercentBrews.com Video")
-
-## Select Work
-
-### React UI Learning Hub
-
-[<img width="40%" alt="React UI Learning Hub Website" src="https://github.com/user-attachments/assets/19e951e3-1a4d-4863-98ed-88b074864b7d">](https://react-ui-learning-hub.vercel.app/ 'React UI Learning Hub Website')
-
 
 ### Full Projects
 | Repo                                                                                  | Description                  | Tech                        |
