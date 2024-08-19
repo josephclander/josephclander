@@ -20,7 +20,6 @@
 |---------------------------------------------------------------------------------------|------------------------------|-----------------------------|
 | [ZeroPercentBrews](https://github.com/josephclander/ZeroPercentBrews-client-snapshot) | Recommendations site for non-alcoholic beers         | MongoDB, Express, React, NodeJS, Auth, Routing, Hooks  |
 | [Find-a-Film](https://github.com/josephclander/find-a-film-snapshot)                  | Find film with search API    | MongoDB, Express, React, NodeJS, TypeScript            |
-| [StudentDirectory](https://github.com/josephclander/React_SQL_Express_student_directory)     | Full Stack Student Directory with Login | React, SQL, Auth, Routing, Classes |
 
 ### Case Studies
 | Repo                                                                    | Description                                                                                                           | Tech                        |
