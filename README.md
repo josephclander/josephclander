@@ -45,9 +45,9 @@
 ## Tech Qualifications
 Links to my `software development` qualifications in `front-end`, `full-stack`, `data-structures` and `testing`.
 
-_(Hover & Click for further information)_
-
 I also have experience working on projects working with Python, Java & Spring Boot & C#.
+
+_(Hover & Click for further information)_
 
 [<img width="100" alt="makers" src="https://user-images.githubusercontent.com/19231569/193341440-40eee919-f7bc-46b6-9051-a92a74905518.png">](https://makers.tech/ "Makers Academy: Software Engineering Bootcamp [in-training]")
 [<img width="100" alt="treehouse" src="https://user-images.githubusercontent.com/19231569/193341667-0b132dc4-fe66-400b-916e-e725d25ad021.png">
