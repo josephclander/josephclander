@@ -41,6 +41,7 @@
 | [VideoCompanyWebsite](https://github.com/josephclander/tidy-joe-video)              | Personal Website, designed to highlight design skills for my side business in videography. | FTP, Sketch, Sass, Flexbox, Contact Form |
 
 ## More information about me & my work
+- Extensive API knowledge at [Cyclr](https://cyclr.com/).
 - Engineering bootcamp grad with [Makers Academy](https://makers.tech/).
 - Software Development Content Creator [YouTube channel](https://youtube.com/@splat_bang).
 - Community Leader [Makers Alumni Hub](https://www.linkedin.com/company/makers-alumni-hub).
@@ -49,8 +50,6 @@
 
 ## Tech Qualifications
 Links to my `software development` qualifications in `front-end`, `full-stack`, `data-structures` and `testing`.
-
-I also have experience working on projects with Python, Java & Spring Boot & C#.
 
 _(Hover & Click for further information)_
 
@@ -62,3 +61,7 @@ _(Hover & Click for further information)_
 [<img width="100" alt="white_fcc" src="https://user-images.githubusercontent.com/19231569/193341862-067f8fe6-f1a8-441f-bd91-daa24fdf26b4.png">](https://www.freecodecamp.org/certification/josephclander/responsive-web-design "FCC: Front-End Web Development")
 [<img width="100" alt="istqb" src="https://user-images.githubusercontent.com/19231569/193341985-2682dadd-9431-4c7f-a817-20473ef7b370.png">
 ](http://scr.istqb.org/?name=joseph+lander&number=&orderBy=relevancy&orderDirection=&dateStart=2021-08-02&dateEnd=2021-08-03&expiryStart=&expiryEnd=&certificationBody=&examProvider=1&certificationLevel=1&country=235&resultsPerPage=10 "ISTQB: Certified Tester Foundation Level 2018")
+
+## Other project experience
+
+<img height="30" src="https://img.shields.io/badge/-DotNet-41454A?logo=dotnet&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-CSharp-41454A" /> <img height="30" src="https://img.shields.io/badge/-Java-41454A" /> <img height="30" src="https://img.shields.io/badge/-SpringBoot-41454A?logo=springboot&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Python-41454A?logo=python&logoColor=white" /> 
