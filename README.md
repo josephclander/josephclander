@@ -1,6 +1,7 @@
-[<img src="https://github.com/josephclander/josephclander/assets/19231569/ffa3648c-e1e6-4ada-9fc4-e0b809f247ae" alt="dark background, Joseph Lander Front End Engineer" />](https://www.linkedin.com/in/josephclander/ "LinkedIn Joseph Lander")
+[<img src="https://github.com/user-attachments/assets/612a637f-3103-4b0a-8a68-d9816e84c5d1" alt="dark background, Joseph Lander Front End Engineer" />](https://www.linkedin.com/in/josephclander/ "LinkedIn Joseph Lander")
 
-## Technologies I Use
+
+## Main Technologies I Use
 
 <img height="30" src="https://img.shields.io/badge/-HTML-BD73D4?logo=HTML5&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-CSS-BD73D4?logo=CSS3&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Sass-BD73D4?logo=Sass&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-JavaScript-61AFEE?logo=JavaScript&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-TypeScript-61AFEE?logo=typescript&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-ReactJs-61AFEE?logo=react&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-NextJS-61AFEE?logo=Next.js&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-NodeJS-61AFEE?logo=Node.js&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-MongoDB-98C379?logo=MongoDB&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-PostgreSQL-98C379?logo=PostgreSQL&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Postman-DF6B74?logo=Postman&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Jest-DF6B74?logo=Jest&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-React%20Testing%20Library-DF6B74?logo=testinglibrary&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Git-E5BF7A?logo=Git&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Affinity%20Designer-E5BF7A?logo=Affinity-Designer&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Sketch-E5BF7A?logo=Sketch&logoColor=white" />
 
@@ -9,6 +10,10 @@
 ### React UI Learning Hub & Large Bytes Company
 
 [<img width="40%" alt="React UI Learning Hub Website" src="https://github.com/user-attachments/assets/2a130f24-b008-4565-9b9c-ca109b099de4">](https://react-ui-learning-hub.vercel.app/ 'React UI Learning Hub Website') [<img width="40%" alt="largebytes company website" src="https://github.com/user-attachments/assets/4b5d7377-8be5-4ea4-977f-9a6f3b1bd59b">](https://www.largebytes.co.uk/ 'Large Bytes - Creating software solutions for small businesses')
+
+Creator of **React UI Learning Hub**. A platform to explain techniques for creating common React UI components.
+
+Co-founder of **Large Bytes**. Building products to support small businesses.
 
 ## Full-stack React project videos
 [<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN') 
@@ -20,11 +25,11 @@
 | [ZeroPercentBrews](https://github.com/josephclander/ZeroPercentBrews-client-snapshot) | Recommendations site for non-alcoholic beers         | MongoDB, Express, React, NodeJS, Auth, Routing, Hooks  |
 | [Find-a-Film](https://github.com/josephclander/find-a-film-snapshot)                  | Find film with search API    | MongoDB, Express, React, NodeJS, TypeScript            |
 
-### Case Studies
+### [Case Studies](https://github.com/josephclander/case-studies)
 | Repo                                                                    | Description                                                                                                           | Tech                        |
 |-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [NextJS Routing](https://github.com/josephclander/nextjs-routing-userlist) | Demonstrate App routing in NextJS                                                                                  | NextJS, TypeScript         |
-| [React Todo App Testing](https://github.com/josephclander/todo_react_typescript_testing) | A standard Todo app in React tested with React Testing Library                                       | React, TypeScript, React Testing Library  |
+| [NextJS Routing](https://github.com/josephclander/case-studies) | Demonstrate App routing in NextJS                                                                                  | NextJS, TypeScript         |
+| [React Todo App Testing](https://github.com/josephclander/case-studies) | A standard Todo app in React tested with React Testing Library                                       | React, TypeScript, React Testing Library  |
 | [WebApp](https://github.com/josephclander/web_app_dashboard)            | Web App Dashboard with graphing widgets and form sections. Responsive design with JS user interactions for better UX. | ChartJS, Grid, Flexbox, SVG |
 | [InteractiveForm](https://github.com/josephclander/interactive-js-form) | Adding interactivity & validation to a registration form                                                              | JS, User Validation         |
 
@@ -45,11 +50,11 @@
 ## Tech Qualifications
 Links to my `software development` qualifications in `front-end`, `full-stack`, `data-structures` and `testing`.
 
-I also have experience working on projects working with Python, Java & Spring Boot & C#.
+I also have experience working on projects with Python, Java & Spring Boot & C#.
 
 _(Hover & Click for further information)_
 
-[<img width="100" alt="makers" src="https://user-images.githubusercontent.com/19231569/193341440-40eee919-f7bc-46b6-9051-a92a74905518.png">](https://makers.tech/ "Makers Academy: Software Engineering Bootcamp [in-training]")
+[<img width="100" alt="makers" src="https://user-images.githubusercontent.com/19231569/193341440-40eee919-f7bc-46b6-9051-a92a74905518.png">](https://makers.tech/ "Makers Academy: Software Engineering Bootcamp")
 [<img width="100" alt="treehouse" src="https://user-images.githubusercontent.com/19231569/193341667-0b132dc4-fe66-400b-916e-e725d25ad021.png">
 ](https://www.credential.net/528a10d8-f891-4e80-9aaf-7920d555564d#gs.di78pv "Treehouse: JS Fullstack Tech Degree")
 [<img width="100" alt="black_fcc" src="https://user-images.githubusercontent.com/19231569/193341820-37ca1e3e-84ad-42ef-abaf-09000b54c80f.png">
