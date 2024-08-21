@@ -11,9 +11,9 @@
 
 [<img width="40%" alt="React UI Learning Hub Website" src="https://github.com/user-attachments/assets/2a130f24-b008-4565-9b9c-ca109b099de4">](https://react-ui-learning-hub.vercel.app/ 'React UI Learning Hub Website') [<img width="40%" alt="largebytes company website" src="https://github.com/user-attachments/assets/4b5d7377-8be5-4ea4-977f-9a6f3b1bd59b">](https://www.largebytes.co.uk/ 'Large Bytes - Creating software solutions for small businesses')
 
-Creator of **React UI Learning Hub**. A platform to explain techniques for creating common React UI components.
+- Creator of **[React UI Learning Hub](https://react-ui-learning-hub.vercel.app/ 'React UI Learning Hub Website')**: A platform to explain techniques for creating common React UI components.
 
-Co-founder of **Large Bytes**. Building products to support small businesses.
+- Co-founder of **[Large Bytes](https://www.largebytes.co.uk/ 'Large Bytes - Creating software solutions for small businesses')**: Building products to support small businesses.
 
 ## Full-stack React project videos
 [<img src="https://i3.ytimg.com/vi/aNMJOOEB6TA/maxresdefault.jpg" width="48%">](https://youtu.be/aNMJOOEB6TA 'Acebook: Team Project in MERN') 
